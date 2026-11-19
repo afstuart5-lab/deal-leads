@@ -291,7 +291,7 @@
  },
  {
   "address": "429 E Echo Ln, Florence, AZ 85132",
-  "price": 85000,
+  "zestimate": null,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Vacant 1993 3/2, online auction ends tomorrow Nov 19 \u2014 current bid $110k is 39% of $285,357 est.; inspection report on file; verify HOA",
@@ -301,7 +301,7 @@
  },
  {
   "address": "7119 S 389th Ave, Tonopah, AZ 85354",
-  "price": 95000,
+  "zestimate": null,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Vacant 2019 manufactured on 1.44 acres, online auction ends tomorrow Nov 19 \u2014 current bid $172k vs $336,269 est.; verify HOA; near Palo Verde",
@@ -311,7 +311,7 @@
  },
  {
   "address": "13615 N 110th Ave, Sun City, AZ 85351",
-  "price": 65000,
+  "zestimate": null,
   "box": "Box 4",
   "source": "Auction.com",
   "note": "Bank-owned, online auction ends tomorrow Nov 19 \u2014 current bid $135k is 65% of $206,398 est. value; occupied, cash only, HOA $352/mo",
@@ -321,7 +321,7 @@
  },
  {
   "address": "3919 E Surrey Ave, Phoenix, AZ 85032",
-  "price": 478888,
+  "zestimate": null,
   "box": "Box 1",
   "source": "Zillow FSBO",
   "note": "FSBO remodeled 1973 3/2 under $480k, 14 days on market \u2014 open house tomorrow Nov 19, 3\u20135 pm",
@@ -331,7 +331,7 @@
  },
  {
   "address": "303 E South Mountain Ave Lot 159, Phoenix, AZ 85042",
-  "price": 105000,
+  "zestimate": null,
   "box": "Box 6",
   "source": "Zillow FSBO",
   "note": "Cheapest Phoenix FSBO at $105k for 1,527 sq ft \u2014 verify real year built (Zillow shows 1776) and lot-rent terms; leased land, park approval required",
@@ -341,7 +341,7 @@
  },
  {
   "address": "6420 W College Dr, Phoenix, AZ 85033",
-  "price": 414900,
+  "zestimate": null,
   "box": "Box 1",
   "source": "Craigslist FSBO",
   "note": "Remodeled 4/2 with pool and seller financing ($30k down), updated today \u2014 year built not shown, verify 1970+; listed by a broker",
@@ -351,7 +351,7 @@
  },
  {
   "address": "4013 N 47th Ln, Phoenix, AZ 85031",
-  "price": 249000,
+  "zestimate": null,
   "box": "Box 6",
   "source": "Craigslist FSBO",
   "note": "$249k, no HOA, pool and garage, needs rehab \u2014 seller financing offered ($25k down)",
@@ -361,7 +361,7 @@
  },
  {
   "address": "436 N Bahamas Dr, Tucson, AZ 85710",
-  "price": 239000,
+  "zestimate": null,
   "box": "Box 5",
   "source": "Craigslist FSBO",
   "note": "85710, $239k, dated with good bones, attached garage, delivered vacant \u2014 ARV $339k, repairs $35\u201345k, financing available",
@@ -371,7 +371,7 @@
  },
  {
   "address": "8221 S Taylor Ln, Tucson, AZ 85736",
-  "price": 78500,
+  "zestimate": null,
   "box": "Box 6 (likely Box 3)",
   "source": "Craigslist FSBO",
   "note": "Cheapest lead in the scan at $78,500 on 1.39 acres with a shop \u2014 1973 double-wide, needs TLC, possible owner financing; verify HOA",
@@ -381,7 +381,7 @@
  },
  {
   "address": "9170 S Antique Way, Tucson, AZ 85736",
-  "price": 145000,
+  "zestimate": null,
   "box": "Box 6",
   "source": "Craigslist FSBO",
   "note": "$145k manufactured on a 1.04-acre fenced lot, ARV $225k \u2014 seller financing offered, close in 10 days; verify HOA",
@@ -391,7 +391,7 @@
  },
  {
   "address": "235 E Delta Rd, Tucson, AZ 85736",
-  "price": 235000,
+  "zestimate": null,
   "box": "Box 6",
   "source": "Craigslist FSBO",
   "note": "5/3 with a huge 1,800 sq ft shop and a 3-way lot split in progress at $235k \u2014 unpermitted addition, verify HOA and code status",
