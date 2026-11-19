@@ -488,5 +488,145 @@
   "url": "https://www.redfin.com/AZ/Tucson/4300-E-Glenn-St-85712/home/50286707",
   "auction_date": null,
   "date_found": "2026-11-18"
+ },
+ {
+  "address": "21032 W Shasta St, Buckeye, AZ 85396",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HUD",
+  "note": "No seller \u2014 HUD bid. Owner-occupants only until Nov 21; investor bidding opens Nov 22. Set your bid before then. 203(k) eligible if you want financing.",
+  "url": "https://www.hudhomestore.gov/propertydetails?caseNumber=025-031118",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "1986 S 241st Ln, Buckeye, AZ 85326",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HUD",
+  "note": "No seller \u2014 HUD listing, 203(k) eligible. A 2024 build, so the play is a clean bid at a discount to list, not a rehab pitch.",
+  "url": "https://www.hudhomestore.gov/propertydetails?caseNumber=023-997474",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "32012 N Bush Dr, Wittmann, AZ 85361",
+  "zestimate": null,
+  "box": "Box 1 / Box 6",
+  "source": "HUD",
+  "note": "Cheapest Box 1 out there \u2014 HUD, no HOA, already cut $10K. Bid direct; FHA-insured and 203(k) eligible.",
+  "url": "https://www.hudhomestore.gov/propertydetails?caseNumber=023-995092",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "10037 N 43rd Ave, Phoenix, AZ 85051",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomePath",
+  "note": "Fannie Mae HomePath \u2014 offers go through their portal, no agent call needed first. No HOA, pool, already cut $10K.",
+  "url": "https://homepath.fanniemae.com/property-detail/8b983af9-426f-4908-8eb1-273c8ebf6b0b",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "4635 W Dailey St, Glendale, AZ 85306",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomePath",
+  "note": "HomePath offer online. 1976 with a partial extra bath \u2014 verify the bath count in the offer docs before you set your number.",
+  "url": "https://homepath.fanniemae.com/property-detail/a27b1648-61b4-49b2-89e4-a72fef7fefbc",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "3550 W Mariposa Grande, Glendale, AZ 85310",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomePath",
+  "note": "Investors can't bid until First Look ends Dec 3 \u2014 calendar it and have the offer ready on day one.",
+  "url": "https://homepath.fanniemae.com/property-detail/e6ae67d8-70e9-4bfa-9bad-0f0eb0fb43c9",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "933 N Desert Ave Unit C, Tucson, AZ 85711",
+  "zestimate": null,
+  "box": "Box 5",
+  "source": "HomePath",
+  "note": "HomePath condo in your Tucson zip \u2014 verify roof, fire history, and convertible space before offering. The $249/mo HOA is the drag; price it in.",
+  "url": "https://homepath.fanniemae.com/property-detail/3e212aa9-717b-4683-9d20-b0c263610b8b",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "1345 N Burris Rd, Casa Grande, AZ 85193",
+  "zestimate": null,
+  "box": "Box 6",
+  "source": "HomePath",
+  "note": "Cheapest lead of the night \u2014 HomePath, 1.25 acres, no HOA. Offer online; at $145K the land carries a lot of the value.",
+  "url": "https://homepath.fanniemae.com/property-detail/97dd5b57-fe64-4548-9f5d-53af042f8271",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "172 W Shannon St, Gilbert, AZ 85233",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomeSteps",
+  "note": "HomeSteps First Look runs about 21 days \u2014 investors wait. Calendar the end date and bid then.",
+  "url": "https://www.homesteps.com/listingdetails/172-w-shannon-st-gilbert-az-85233",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "17088 W Alice Ave, Waddell, AZ 85355",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomeSteps",
+  "note": "First Look ends Nov 25 \u2014 be ready to offer Nov 26. Near-new 2022 build.",
+  "url": "https://www.homesteps.com/listingdetails/17088-w-alice-ave-waddell-az-85355",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "407 E Honda Bow Rd, Phoenix, AZ 85086",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomeSteps",
+  "note": "HomeSteps offer through their portal, on 1.67 acres \u2014 the acreage is your upside; don't advertise it in the offer.",
+  "url": "https://www.homesteps.com/listingdetails/407-e-honda-bow-road-phoenix-az-85086",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "22335 S 211th Way, Queen Creek, AZ 85142",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomeSteps",
+  "note": "HomeSteps pool home \u2014 standard online offer. HOA is $90/mo; price it in.",
+  "url": "https://www.homesteps.com/listingdetails/22335-south-211th-way-queen-creek-az-85142",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "17909 W Agave Rd, Goodyear, AZ 85338",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "HomeSteps",
+  "note": "HomeSteps \u2014 offer online. HOA isn't shown on the page; confirm it before you finalize your number.",
+  "url": "https://www.homesteps.com/listingdetails/17909-w-agave-rd-goodyear-az-85338",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "19641 N 26th St, Phoenix, AZ 85050",
+  "zestimate": null,
+  "box": "Box 6",
+  "source": "HomeSteps",
+  "note": "1976 manufactured \u2014 misses your Box 2/3 rules, but as a Box 6 cash play: verify owned land and affixture before offering. Listing says no HOA.",
+  "url": "https://www.homesteps.com/listingdetails/19641-n-26th-st-phoenix-az-85050",
+  "auction_date": null,
+  "date_found": "2026-11-18"
  }
 ]
