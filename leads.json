@@ -1,7 +1,7 @@
 [
  {
   "address": "6917 W Shumway Farm Rd, Laveen, AZ 85339",
-  "zestimate": null,
+  "zestimate": 480500,
   "box": "Box 1 / Box 4",
   "source": "Auction.com",
   "note": "Bank-owned, vacant, cash only \u2014 opening bid 36% of $480,895 est. value; online auction Nov 22\u201324 (First Look, owner-occupants only until Nov 24)",
@@ -21,7 +21,7 @@
  },
  {
   "address": "2310 W Maldonado Rd, Phoenix, AZ 85041",
-  "zestimate": null,
+  "zestimate": 440600,
   "box": "Box 1 / Box 4 / Box 6",
   "source": "Auction.com",
   "note": "Opening bid 57% of $406,217 est. value \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied",
@@ -31,7 +31,7 @@
  },
  {
   "address": "14209 N Alto St, El Mirage, AZ 85335",
-  "zestimate": null,
+  "zestimate": 314700,
   "box": "Box 1 / Box 4 / Box 6",
   "source": "Auction.com",
   "note": "Opening bid 58% of $346,075 est. value \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied",
@@ -41,7 +41,7 @@
  },
  {
   "address": "4228 S 82nd Ln, Phoenix, AZ 85043",
-  "zestimate": null,
+  "zestimate": 355200,
   "box": "Box 1 / Box 4 / Box 6",
   "source": "Auction.com",
   "note": "Opening bid 63% of $362,398 est. value \u2014 courthouse auction Mon Nov 23, 10 AM; occupied",
@@ -61,7 +61,7 @@
  },
  {
   "address": "6829 W St Charles Ave, Laveen, AZ 85339",
-  "zestimate": null,
+  "zestimate": 417200,
   "box": "Box 1",
   "source": "Auction.com",
   "note": "Believed vacant per listing \u2014 courthouse auction TOMORROW Nov 19, 10 AM; est. value $414,223",
@@ -71,7 +71,7 @@
  },
  {
   "address": "17076 W Diana Ave, Waddell, AZ 85355",
-  "zestimate": null,
+  "zestimate": 417600,
   "box": "Box 1",
   "source": "Auction.com",
   "note": "2022-built SFR, est. value $387,774 \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied",
@@ -91,7 +91,7 @@
  },
  {
   "address": "45338 W Madison Ave, Maricopa, AZ 85139",
-  "zestimate": null,
+  "zestimate": 215100,
   "box": "Box 2 (probable) / Box 6",
   "source": "Auction.com",
   "note": "Vacant, cash only \u2014 opening bid 17% of $210,312 est. value; online Nov 23\u201325; owned land not explicitly stated, title/affidavit caution",
@@ -101,7 +101,7 @@
  },
  {
   "address": "3145 W Romana Dr, Eloy, AZ 85131",
-  "zestimate": null,
+  "zestimate": 217200,
   "box": "Box 2 (probable) / Box 6",
   "source": "Auction.com",
   "note": "Vacant, cash only \u2014 opening bid 24% of $146,883 est. value; online Nov 21\u201323; owned land not explicitly stated, title/affidavit caution",
@@ -131,7 +131,7 @@
  },
  {
   "address": "209 E 3rd Ave, Casa Grande, AZ 85122",
-  "zestimate": null,
+  "zestimate": 158400,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Bank-owned, cash only \u2014 $60K opening bid; online Nov 22\u201324; occupied",
@@ -141,7 +141,7 @@
  },
  {
   "address": "12891 W Wailaki Way, Tucson, AZ 85743",
-  "zestimate": null,
+  "zestimate": 199300,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Vacant, cash only \u2014 opening bid 27% of $273,936 est. value; online Nov 21\u201323; title/affidavit caution",
@@ -151,7 +151,7 @@
  },
  {
   "address": "6558 E 12th St, Tucson, AZ 85710",
-  "zestimate": null,
+  "zestimate": 296200,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Online auction ENDS TOMORROW Nov 19 \u2014 opening was 29% of $324,001 est.; current bid already $150K, reserve not met; occupied",
@@ -161,7 +161,7 @@
  },
  {
   "address": "1026 S Brighton Ave, Tucson, AZ 85711",
-  "zestimate": null,
+  "zestimate": 316900,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Bank-owned, vacant, inspection report on file \u2014 online auction ENDS TOMORROW Nov 19; current bid $125K, reserve not met; est. $310,832",
@@ -171,7 +171,7 @@
  },
  {
   "address": "4227 E Agave Desert Trl, Tucson, AZ 85706",
-  "zestimate": null,
+  "zestimate": 308300,
   "box": "Box 6",
   "source": "Auction.com",
   "note": "Bank-owned, vacant, cash only \u2014 opening bid 32% of $296,898 est. value; online Nov 21\u201323",
