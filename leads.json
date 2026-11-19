@@ -1,1 +1,292 @@
-[]
+[
+ {
+  "address": "6917 W Shumway Farm Rd, Laveen, AZ 85339",
+  "price": 175000,
+  "box": "Box 1 / Box 4",
+  "source": "Auction.com",
+  "note": "Bank-owned, vacant, cash only \u2014 opening bid 36% of $480,895 est. value; online auction Nov 22\u201324 (First Look, owner-occupants only until Nov 24)",
+  "url": "https://www.auction.com/details/6917-w-shumway-farm-rd-laveen-az-2243492",
+  "auction_date": "2026-11-22",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "12725 W Voltaire Ave, El Mirage, AZ 85335",
+  "price": 95000,
+  "box": "Box 4",
+  "source": "Auction.com",
+  "note": "Bank-owned, vacant, cash only \u2014 opening bid under 30% of $321,922 est. value; online auction Nov 22\u201324",
+  "url": "https://www.auction.com/details/12725-w-voltaire-ave-el-mirage-az-2254266",
+  "auction_date": "2026-11-22",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "2310 W Maldonado Rd, Phoenix, AZ 85041",
+  "price": 233100,
+  "box": "Box 1 / Box 4 / Box 6",
+  "source": "Auction.com",
+  "note": "Opening bid 57% of $406,217 est. value \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied",
+  "url": "https://www.auction.com/details/2310-w-maldonado-rd-phoenix-az-2157048",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "14209 N Alto St, El Mirage, AZ 85335",
+  "price": 202160,
+  "box": "Box 1 / Box 4 / Box 6",
+  "source": "Auction.com",
+  "note": "Opening bid 58% of $346,075 est. value \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied",
+  "url": "https://www.auction.com/details/14209-n-alto-st-el-mirage-az-2157068",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "4228 S 82nd Ln, Phoenix, AZ 85043",
+  "price": 226800,
+  "box": "Box 1 / Box 4 / Box 6",
+  "source": "Auction.com",
+  "note": "Opening bid 63% of $362,398 est. value \u2014 courthouse auction Mon Nov 23, 10 AM; occupied",
+  "url": "https://www.auction.com/details/4228-s-82nd-ln-phoenix-az-2158360",
+  "auction_date": "2026-11-23",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "15476 W Yucatan Dr, Surprise, AZ 85379",
+  "price": 297076,
+  "box": "Box 1",
+  "source": "Auction.com",
+  "note": "Opening bid 70% of $422,778 est. value \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied, do not disturb",
+  "url": "https://www.auction.com/details/15476-w-yucatan-dr-surprise-az-2152879",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "6829 W St Charles Ave, Laveen, AZ 85339",
+  "price": 331500,
+  "box": "Box 1",
+  "source": "Auction.com",
+  "note": "Believed vacant per listing \u2014 courthouse auction TOMORROW Nov 19, 10 AM; est. value $414,223",
+  "url": "https://www.auction.com/details/6829-w-st-charles-ave-laveen-az-2159103",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "17076 W Diana Ave, Waddell, AZ 85355",
+  "price": 323600,
+  "box": "Box 1",
+  "source": "Auction.com",
+  "note": "2022-built SFR, est. value $387,774 \u2014 courthouse auction TOMORROW Nov 19, 10 AM; occupied",
+  "url": "https://www.auction.com/details/17076-w-diana-ave-waddell-az-2237773",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "9006 S 340th Dr, Arlington, AZ 85322",
+  "price": 100000,
+  "box": "Box 6 (likely Box 2)",
+  "source": "Auction.com",
+  "note": "Bank-owned 2019 manufactured on 1.14 acres, $100K opening \u2014 online Nov 21\u201323; land ownership not stated, title/affidavit caution on listing",
+  "url": "https://www.auction.com/details/9006-s-340th-dr-arlington-az-2250194",
+  "auction_date": "2026-11-21",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "45338 W Madison Ave, Maricopa, AZ 85139",
+  "price": 35000,
+  "box": "Box 2 (probable) / Box 6",
+  "source": "Auction.com",
+  "note": "Vacant, cash only \u2014 opening bid 17% of $210,312 est. value; online Nov 23\u201325; owned land not explicitly stated, title/affidavit caution",
+  "url": "https://www.auction.com/details/45338-w-madison-ave-maricopa-az-2253903",
+  "auction_date": "2026-11-23",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "3145 W Romana Dr, Eloy, AZ 85131",
+  "price": 35000,
+  "box": "Box 2 (probable) / Box 6",
+  "source": "Auction.com",
+  "note": "Vacant, cash only \u2014 opening bid 24% of $146,883 est. value; online Nov 21\u201323; owned land not explicitly stated, title/affidavit caution",
+  "url": "https://www.auction.com/details/3145-w-romana-dr-eloy-az-2250226",
+  "auction_date": "2026-11-21",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "49084 W Huisatch Rd, Maricopa, AZ 85139",
+  "price": 100000,
+  "box": "Box 2 (probable) / Box 6",
+  "source": "Auction.com",
+  "note": "Vacant, 3.46 acres \u2014 opening bid 33% of $303,610 est. value; online Nov 23\u201325; owned land not explicitly stated, title/affidavit caution",
+  "url": "https://www.auction.com/details/49084-w-huisatch-rd-maricopa-az-2252619",
+  "auction_date": "2026-11-23",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "54194 W Organ Pipe Rd, Maricopa, AZ 85139",
+  "price": 35000,
+  "box": "Box 2 (probable)",
+  "source": "Auction.com",
+  "note": "Vacant \u2014 1997 manufactured on 3.35 acres at a $35K opening vs $179,436 est.; online Nov 22\u201324 (First Look); owned land not explicitly stated",
+  "url": "https://www.auction.com/details/54194-w-organ-pipe-rd-maricopa-az-2241251",
+  "auction_date": "2026-11-22",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "209 E 3rd Ave, Casa Grande, AZ 85122",
+  "price": 60000,
+  "box": "Box 6",
+  "source": "Auction.com",
+  "note": "Bank-owned, cash only \u2014 $60K opening bid; online Nov 22\u201324; occupied",
+  "url": "https://www.auction.com/details/209-e-3rd-ave-casa-grande-az-2251595",
+  "auction_date": "2026-11-22",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "12891 W Wailaki Way, Tucson, AZ 85743",
+  "price": 75000,
+  "box": "Box 6",
+  "source": "Auction.com",
+  "note": "Vacant, cash only \u2014 opening bid 27% of $273,936 est. value; online Nov 21\u201323; title/affidavit caution",
+  "url": "https://www.auction.com/details/12891-w-wailaki-way-tucson-az-2249823",
+  "auction_date": "2026-11-21",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "6558 E 12th St, Tucson, AZ 85710",
+  "price": 95000,
+  "box": "Box 6",
+  "source": "Auction.com",
+  "note": "Online auction ENDS TOMORROW Nov 19 \u2014 opening was 29% of $324,001 est.; current bid already $150K, reserve not met; occupied",
+  "url": "https://www.auction.com/details/6558-e-12th-st-tucson-az-2251546",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "1026 S Brighton Ave, Tucson, AZ 85711",
+  "price": 100000,
+  "box": "Box 6",
+  "source": "Auction.com",
+  "note": "Bank-owned, vacant, inspection report on file \u2014 online auction ENDS TOMORROW Nov 19; current bid $125K, reserve not met; est. $310,832",
+  "url": "https://www.auction.com/details/1026-s-brighton-ave-tucson-az-2245968",
+  "auction_date": "2026-11-19",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "4227 E Agave Desert Trl, Tucson, AZ 85706",
+  "price": 95000,
+  "box": "Box 6",
+  "source": "Auction.com",
+  "note": "Bank-owned, vacant, cash only \u2014 opening bid 32% of $296,898 est. value; online Nov 21\u201323",
+  "url": "https://www.auction.com/details/4227-e-agave-desert-trl-tucson-az-2240307",
+  "auction_date": "2026-11-21",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "8617 E 4th St, Tucson, AZ 85710",
+  "price": null,
+  "box": "Box 5",
+  "source": "Auction.com",
+  "note": "Courthouse auction Wed Dec 2 \u2014 est. value $246,635, under the $300K cap; opening bid not yet published and sale not yet cleared, may be postponed",
+  "url": "https://www.auction.com/details/8617-e-4th-st-tucson-az-2157736",
+  "auction_date": "2026-12-02",
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "14130 W Dahlia Dr, Surprise, AZ 85379",
+  "price": 385000,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO, 215 days on Zillow and seller will carry back with 10% down \u2014 strongest motivation signal in this batch",
+  "url": "https://www.zillow.com/homedetails/14130-W-Dahlia-Dr-Surprise-AZ-85379/71609394_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "2977 E Michelle Way, Gilbert, AZ 85234",
+  "price": 530000,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO, 136 days on Zillow with a fresh $40K price cut on 11/17 \u2014 seller advertises a lower cash price than the realtor price",
+  "url": "https://www.zillow.com/homedetails/2977-E-Michelle-Way-Gilbert-AZ-85234/8233034_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "235 N Conejo Rd, Maricopa, AZ 85139",
+  "price": 105000,
+  "box": "Box 2 (probable) / Box 6",
+  "source": "Zillow FSBO",
+  "note": "FSBO, $20K cut (16%) 'for a fast sale,' on its own acre, no HOA, 40 days on market \u2014 manufactured-style home, verify affixture and land ownership",
+  "url": "https://www.zillow.com/homedetails/235-N-Conejo-Rd-Maricopa-AZ-85139/8700540_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "11439 W Eucalyptus Dr, Arizona City, AZ 85123",
+  "price": 175000,
+  "box": "Box 2 (probable) / Box 6",
+  "source": "Zillow FSBO",
+  "note": "FSBO manufactured (1988) on a quarter-acre, no HOA, remodeled, $5K cut, 40 days on market \u2014 verify affixture and land ownership",
+  "url": "https://www.zillow.com/homedetails/11439-W-Eucalyptus-Dr-Arizona-City-AZ-85123/111062010_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "1607 E La Donna Ln, Tempe, AZ 85283",
+  "price": 539900,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO, no HOA, 86 days on market, price cut in September \u2014 1974 pool home with remodel upside",
+  "url": "https://www.zillow.com/homedetails/1607-E-La-Donna-Ln-Tempe-AZ-85283/8167312_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "6748 W Crabapple Dr, Peoria, AZ 85383",
+  "price": 450000,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO, only 6 days on market \u2014 fresh 4 bed / 2 bath (1999); call early",
+  "url": "https://www.zillow.com/homedetails/6748-W-Crabapple-Dr-Peoria-AZ-85383/7925434_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "7011 W Cheryl Dr, Peoria, AZ 85345",
+  "price": 449000,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO, NO HOA, fully remodeled with RV parking, 11 days on market",
+  "url": "https://www.zillow.com/homedetails/7011-W-Cheryl-Dr-Peoria-AZ-85345/7701711_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "12310 W Columbine Dr, El Mirage, AZ 85335",
+  "price": 369888,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO 4 bed / 3 bath, only 4 days on market \u2014 HOA info contradictory on the page, verify",
+  "url": "https://www.zillow.com/homedetails/12310-W-Columbine-Dr-El-Mirage-AZ-85335/52524873_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "901 S Smith Rd, Tempe, AZ 85281",
+  "price": 529500,
+  "box": "Box 1",
+  "source": "Zillow FSBO",
+  "note": "FSBO, 100 days on market, built 2021 \u2014 listed above its $514,100 Zestimate, so there may be room to negotiate",
+  "url": "https://www.zillow.com/homedetails/901-S-Smith-Rd-Tempe-AZ-85281/338666856_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "5433 E Waverly St, Tucson, AZ 85712",
+  "price": 249900,
+  "box": "Box 5 (borderline)",
+  "source": "Zillow FSBO",
+  "note": "FSBO, 313 days on Zillow, big lot with room to add a casita/ADU \u2014 borderline Box 5: no existing convertible space (carport only), roof reported fine",
+  "url": "https://www.zillow.com/homedetails/5433-E-Waverly-St-Tucson-AZ-85712/8492959_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ }
+]
