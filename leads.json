@@ -628,5 +628,185 @@
   "url": "https://www.homesteps.com/listingdetails/19641-n-26th-st-phoenix-az-85050",
   "auction_date": null,
   "date_found": "2026-11-18"
+ },
+ {
+  "address": "14350 W Jalisco Rd, Arivaca, AZ 85601",
+  "auction_date": "2026-11-22",
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "mortgage_amount": 227920,
+  "mortgage_date": "2024-09-26",
+  "mortgage_lender": "CrossCountry Mortgage LLC",
+  "note": "First Look until Nov 24 \u2014 investors wait. Line up cash + proof of funds now and verify the affixture/title before you bid; cap well under the $261K value.",
+  "segment": "Pre-foreclosure",
+  "signals": [
+   "bank owned"
+  ],
+  "source": "Auction.com",
+  "url": "https://www.auction.com/details/14350-w-jalisco-rd-arivaca-az-2242483",
+  "zestimate": 261400
+ },
+ {
+  "address": "2535 E Illini St, Phoenix, AZ 85040",
+  "auction_date": null,
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "note": "Condolences first \u2014 'I help families settle inherited homes as-is and can clear the back taxes at closing.' Verify no HOA on the call.",
+  "owner_name": "Estate of James Guss",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/2535-E-Illini-St-Phoenix-AZ-85040/7546095_zpid/",
+  "zestimate": 188400
+ },
+ {
+  "address": "10923 W 4th St, Avondale, AZ 85323",
+  "auction_date": null,
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "note": "Condolences first \u2014 'I buy inherited homes in Avondale for cash and can close on your family's timeline.' Verify no HOA on the call.",
+  "owner_name": "Estate of Julia C. Rascon",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/10923-W-4th-St-Avondale-AZ-85323/7460338_zpid/",
+  "zestimate": 205200
+ },
+ {
+  "address": "5221 S 6th Ave, Tucson, AZ 85706",
+  "auction_date": null,
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "note": "Condolences first for Armando and Grace \u2014 'I help families settle inherited homes as-is; I can make a straightforward cash offer.' Verify no HOA on the call.",
+  "owner_name": "Estates of Armando R. Espinoza and Grace M. Espinoza",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/5221-S-6th-Ave-Tucson-AZ-85706/8560285_zpid/",
+  "zestimate": 228200
+ },
+ {
+  "address": "2844 W Granada Rd, Phoenix, AZ 85009",
+  "auction_date": null,
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "note": "Condolences first \u2014 'I help families settle inherited homes as-is and can cover the back taxes.' Verify no HOA on the call.",
+  "owner_name": "Estate of Refugio C. Magdaleno",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/2844-W-Granada-Rd-Phoenix-AZ-85009/7512359_zpid/",
+  "zestimate": 236700
+ },
+ {
+  "address": "2013 E Nancy Ln, Phoenix, AZ 85042",
+  "auction_date": null,
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "note": "Condolences first \u2014 ask the family about the current tenant/lease first, then: 'I can buy as-is and handle the back taxes.' Verify no HOA on the call.",
+  "owner_name": "Estate of Sherry K. Howard",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/2013-E-Nancy-Ln-Phoenix-AZ-85042/7548765_zpid/",
+  "zestimate": 245600
+ },
+ {
+  "address": "6626 W Monte Vista Rd, Phoenix, AZ 85035",
+  "auction_date": null,
+  "box": "Box 1",
+  "date_found": "2026-11-19",
+  "note": "Condolences first \u2014 'I help families settle inherited homes as-is, no clean-out, and I can cover the back taxes.' 1971 3/2.",
+  "owner_name": "Estate of James A. Webb",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/6626-W-Monte-Vista-Rd-Phoenix-AZ-85035/7490310_zpid/",
+  "zestimate": 281400
+ },
+ {
+  "address": "3354 W Culver St, Phoenix, AZ 85009",
+  "auction_date": null,
+  "box": "Box 1",
+  "date_found": "2026-11-19",
+  "note": "Condolences first \u2014 'I buy inherited homes as-is and can close on your timeline; I can also clear the back taxes.' 1970 3/2.",
+  "owner_name": "Estate of Gerardo Ramirez",
+  "segment": "Probate / inherited",
+  "signals": [
+   "estate",
+   "tax delinquent"
+  ],
+  "source": "County List",
+  "stack_tier": "Tier B",
+  "url": "https://www.zillow.com/homedetails/3354-W-Culver-St-Phoenix-AZ-85009/50186017_zpid/",
+  "zestimate": 300200
+ },
+ {
+  "address": "13547 W Peck Dr, Litchfield Park, AZ 85340",
+  "auction_date": null,
+  "box": "Box 1",
+  "date_found": "2026-11-19",
+  "note": "Lead with the owner-carry terms \u2014 ask if he'll take $55K down and let you assume the $2,130/mo payments at 3.5%, and confirm solar and HOA are included in that payment.",
+  "signals": [
+   "price cut"
+  ],
+  "source": "FSBO.com",
+  "url": "https://fsbo.com/search/13547-w-peck-dr-litchfield-park-az-85340-1788040810501",
+  "zestimate": null
+ },
+ {
+  "address": "24269 W Watkins St, Buckeye, AZ 85326",
+  "auction_date": null,
+  "box": "Box 1",
+  "date_found": "2026-11-19",
+  "note": "Ask what changed since the $525K MLS listing \u2014 he's already cut to $514,400, so open on a fast close at or below the $514,400 Zestimate and what timeline works for him.",
+  "signals": [
+   "price cut"
+  ],
+  "source": "FSBO.com",
+  "url": "https://fsbo.com/search/24269-w-watkins-st-buckeye-az-85326-1794866436115",
+  "zestimate": 514400
+ },
+ {
+  "address": "38181 W San Alvarez Ave, Maricopa, AZ 85138",
+  "auction_date": "2026-12-01",
+  "box": "Box 6",
+  "date_found": "2026-11-19",
+  "mortgage_amount": 274488,
+  "mortgage_date": "2021-09-13",
+  "mortgage_lender": "PennyMac Loan Services LLC",
+  "note": "Bring a $10K cashier's check to the Dec 1 Florence sale or set up a remote bid; open at the $220,700 bid \u2014 verify no HOA and confirm the sale clears the week before, since it can still be postponed.",
+  "segment": "Pre-foreclosure",
+  "signals": [
+   "trustee sale"
+  ],
+  "source": "Auction.com",
+  "stack_tier": "Tier C",
+  "url": "https://www.auction.com/details/38181-w-san-alvarez-ave-maricopa-az-2157548",
+  "zestimate": 298600
  }
 ]
