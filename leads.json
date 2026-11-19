@@ -344,7 +344,7 @@
   "zestimate": 413400,
   "box": "Box 1",
   "source": "Craigslist FSBO",
-  "note": "Lead with their financing: 'Your terms work for me \u2014 what do you need monthly, and over how long?' Verify the year built on the same call.",
+  "note": "Lead with their financing \u2014 the full terms are public: 30-year carry, $30K down, 8.59%, no prepayment penalty. Say: 'Your terms work for me \u2014 let's talk price.' Verify the year built (1972 per their FSBO.com listing).",
   "url": "https://www.craigslist.org/view/d/phoenix-seller-financing-available/qKEkeGzguL1chMyV3VBhAh",
   "auction_date": null,
   "date_found": "2026-11-18"
@@ -426,6 +426,66 @@
   "source": "County List",
   "note": "Estate of Anna Recklein \u2014 condolence-first: 'I buy estate homes as-is, no clean-out, and I can cover the back taxes at closing.' Roof type is unclear in the records \u2014 verify it early.",
   "url": "https://www.zillow.com/homedetails/4746-E-Hampton-St-Tucson-AZ-85712/8494336_zpid/",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "2745 W Bluefield Ave, Phoenix, AZ 85053",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "ForSaleByOwner.com",
+  "note": "Remodeled with new roof and AC \u2014 it's retail-ready, so don't pitch a discount. Sell certainty: 'Cash, no inspection games, close in 14 days \u2014 what number makes it easy?'",
+  "url": "https://www.forsalebyowner.com/listing/2745-West-Bluefield-Avenue-Phoenix-AZ-85053/6aa1dc8779240681240d4cda",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "15207 N 28th Pl, Phoenix, AZ 85032",
+  "zestimate": null,
+  "box": "Box 1",
+  "source": "ForSaleByOwner.com",
+  "note": "First confirm it's truly 2 baths \u2014 a duplicate listing for this address shows 1.5. Then: 'Cash, quick close \u2014 and I like the office setup.'",
+  "url": "https://www.forsalebyowner.com/listing/15207-N-28th-place-Phoenix-AZ-85032/649cc620ab5b5dfd6108e2e5",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "4833 E 23rd St, Tucson, AZ 85711",
+  "zestimate": null,
+  "box": "Box 5 / Box 6",
+  "source": "Redfin",
+  "note": "It's gutted \u2014 that's your leverage: 'Most buyers can't touch a gutted house. I can \u2014 cash, as-is.' Confirm the real bed/bath layout on the call; the listing contradicts itself.",
+  "url": "https://www.redfin.com/AZ/Tucson/4833-E-23rd-St-85711/home/50466898",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "5056 E 4th St, Tucson, AZ 85711",
+  "zestimate": null,
+  "box": "Box 5 / Box 6",
+  "source": "Redfin",
+  "note": "Lead with as-is: 'No repairs, no clean-up, cash close.' It's been listed since September \u2014 ask what's making it hard to sell and solve that.",
+  "url": "https://www.redfin.com/AZ/Tucson/5056-E-4th-St-85711/home/50456158",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "7017 E Luana Dr, Tucson, AZ 85710",
+  "zestimate": null,
+  "box": "Box 5 / Box 6",
+  "source": "Redfin",
+  "note": "Three price drops \u2014 they're chasing the market down. Open with: 'I can stop the price cuts \u2014 cash at a number that works for both of us, closed this month.'",
+  "url": "https://www.redfin.com/AZ/Tucson/7017-E-Luana-Dr-85710/home/50477451",
+  "auction_date": null,
+  "date_found": "2026-11-18"
+ },
+ {
+  "address": "4300 E Glenn St, Tucson, AZ 85712",
+  "zestimate": null,
+  "box": "Box 6",
+  "source": "Redfin",
+  "note": "Original-brick mid-century \u2014 pitch a clean cash close and let them pick the date: 'Sell as-is, close when you're ready.'",
+  "url": "https://www.redfin.com/AZ/Tucson/4300-E-Glenn-St-85712/home/50286707",
   "auction_date": null,
   "date_found": "2026-11-18"
  }
