@@ -1198,5 +1198,35 @@
     "signals": [
       "trustee sale"
     ]
+  },
+  {
+    "address": "22170 W Hadley St, Buckeye, AZ 85326",
+    "zestimate": null,
+    "box": "Box 1",
+    "source": "Craigslist FSBO",
+    "note": "Lead as a fast cash / quick-close buyer at or below $305,000 with $5,000 EMD and proof of funds; the home is vacant, so ask for immediate showing access and confirm HOA.",
+    "url": "https://www.craigslist.org/view/d/palo-verde-buckeye-az-bed-bath-305k-down/fpM2PUWNqJcnofFDXz7VDZ",
+    "auction_date": null,
+    "date_found": "2026-11-19"
+  },
+  {
+    "address": "5712 E Cooper St, Tucson, AZ 85711",
+    "zestimate": null,
+    "box": "Box 5",
+    "source": "Redfin",
+    "note": "Ask about the converted garage with A/C and the den \u2014 lead with turning them into a bedroom/in-law suite, and confirm the 2024 roof warranty transfers.",
+    "url": "https://www.redfin.com/AZ/Tucson/5712-E-Cooper-St-85711/home/50457885",
+    "auction_date": null,
+    "date_found": "2026-11-19"
+  },
+  {
+    "address": "4532 E 16th St, Tucson, AZ 85711",
+    "zestimate": null,
+    "box": "Box 5",
+    "source": "Redfin",
+    "note": "Ask about the accessory building with the extra room and half bath \u2014 lead with using it as an in-law suite/rental, and confirm the 2021 roof.",
+    "url": "https://www.redfin.com/AZ/Tucson/4532-E-16th-St-85711/home/50453301",
+    "auction_date": null,
+    "date_found": "2026-11-19"
   }
 ]
