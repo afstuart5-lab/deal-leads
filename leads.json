@@ -2651,5 +2651,29 @@
     "year_built": 1964,
     "prior_list_price": 225000,
     "days_on_market": 108
+  },
+  {
+    "address": "2931 N 53rd Pkwy, Phoenix, AZ 85031",
+    "zestimate": 369200,
+    "box": "Box 4",
+    "source": "Auction.com",
+    "note": "Bid Monday 11/23 at 201 W Jefferson \u2014 opening bid $253k is ~68.5% of the $369,200 Zestimate; bring cashier's checks up to your max plus the $10k deposit, and confirm that morning the sale hasn't been postponed.",
+    "url": "https://www.auction.com/details/2931-n-53rd-pkwy-phoenix-az-2161235",
+    "auction_date": "2026-11-23",
+    "date_found": "2026-11-20",
+    "arv": null,
+    "arv_comps": [],
+    "segment": "Pre-foreclosure",
+    "signals": [
+      "trustee sale"
+    ],
+    "stack_tier": "Tier C",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1649,
+    "year_built": 1959,
+    "mortgage_amount": 382374,
+    "mortgage_date": "2022-07-27",
+    "mortgage_lender": "PENNYMAC"
   }
 ]
