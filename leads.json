@@ -954,7 +954,10 @@
     "date_found": "2026-11-18",
     "year_built": 1959,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1833
   },
   {
     "address": "8221 S Taylor Ln, Tucson, AZ 85736",
@@ -966,7 +969,11 @@
     "auction_date": null,
     "date_found": "2026-11-18",
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2176,
+    "year_built": 1973
   },
   {
     "address": "9170 S Antique Way, Tucson, AZ 85736",
@@ -1013,7 +1020,10 @@
     "stack_tier": "Tier B",
     "owner_name": "Estate of Lopez",
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "baths": 1,
+    "sqft": 1086,
+    "year_built": 1948
   },
   {
     "address": "5117 E Ferry Dr, Tucson, AZ 85711",
@@ -1034,7 +1044,8 @@
     "baths": 1,
     "year_built": 1964,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "sqft": 1398
   },
   {
     "address": "4746 E Hampton St, Tucson, AZ 85712",
@@ -1053,7 +1064,9 @@
     "stack_tier": "Tier B",
     "owner_name": "Estate of Recklein",
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "baths": 1,
+    "sqft": 1064
   },
   {
     "address": "2745 W Bluefield Ave, Phoenix, AZ 85053",
@@ -1068,8 +1081,36 @@
     "baths": 2,
     "sqft": 1645,
     "year_built": 1983,
-    "arv": null,
-    "arv_comps": []
+    "arv": 402000,
+    "arv_comps": [
+      {
+        "address": "2807 W Charleston Ave, Phoenix, AZ 85053",
+        "price": 402000,
+        "date": "2026-07-01",
+        "url": "https://www.homes.com/property/2807-w-charleston-ave-phoenix-az/hwetjq4w26l20/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1343
+      },
+      {
+        "address": "3008 W Angela Dr, Phoenix, AZ 85053",
+        "price": 409900,
+        "date": "2026-06-16",
+        "url": "https://www.homes.com/property/3008-w-angela-dr-phoenix-az/lxekt7t7c9ckr/",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1522
+      },
+      {
+        "address": "3014 W Angela Dr, Phoenix, AZ 85053",
+        "price": 367500,
+        "date": "2026-07-30",
+        "url": "https://www.redfin.com/AZ/Phoenix/3014-W-Angela-Dr-85053/home/27960278",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1572
+      }
+    ]
   },
   {
     "address": "15207 N 28th Pl, Phoenix, AZ 85032",
@@ -1100,8 +1141,36 @@
     "baths": 2,
     "sqft": 1081,
     "year_built": 1959,
-    "arv": null,
-    "arv_comps": []
+    "arv": 240000,
+    "arv_comps": [
+      {
+        "address": "4370 E Timrod St, Tucson, AZ 85711",
+        "price": 228000,
+        "date": "2026-11-18",
+        "url": "https://www.homes.com/property/4370-e-timrod-st-tucson-az/tf586s3b25vg1/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1138
+      },
+      {
+        "address": "4257 E Valentine St, Tucson, AZ 85711",
+        "price": 240000,
+        "date": "2026-10-22",
+        "url": "https://www.homes.com/property/4257-e-valentine-st-tucson-az/s4k03xtcnmt9l/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1084
+      },
+      {
+        "address": "5149 E Andrew St, Tucson, AZ 85711",
+        "price": 250000,
+        "date": "2026-09-30",
+        "url": "https://www.homes.com/property/5149-e-andrew-st-tucson-az/zk5p7vk0x33bm/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 943
+      }
+    ]
   },
   {
     "address": "5056 E 4th St, Tucson, AZ 85711",
@@ -1116,8 +1185,36 @@
     "baths": 2,
     "sqft": 1282,
     "year_built": 1951,
-    "arv": null,
-    "arv_comps": []
+    "arv": 305000,
+    "arv_comps": [
+      {
+        "address": "4919 E Cecelia St, Tucson, AZ 85711",
+        "price": 305000,
+        "date": "2026-10-13",
+        "url": "https://www.redfin.com/AZ/Tucson/4919-E-Cecelia-St-85711/home/50459424",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1287
+      },
+      {
+        "address": "4950 E Hawthorne St, Tucson, AZ 85711",
+        "price": 300000,
+        "date": "2026-07-31",
+        "url": "https://www.homes.com/property/4950-e-hawthorne-st-tucson-az/4c7zx7vd32zsf/",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 1460
+      },
+      {
+        "address": "5051 E Julia St, Tucson, AZ 85711",
+        "price": 365000,
+        "date": "2026-09-29",
+        "url": "https://www.homes.com/property/5051-e-julia-st-tucson-az/zp1fryyxwy7wz/",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1433
+      }
+    ]
   },
   {
     "address": "7017 E Luana Dr, Tucson, AZ 85710",
@@ -2002,7 +2099,12 @@
     "note": "Ask about the converted garage with A/C and the den \u2014 lead with turning them into a bedroom/in-law suite, and confirm the 2024 roof warranty transfers.",
     "url": "https://www.redfin.com/AZ/Tucson/5712-E-Cooper-St-85711/home/50457885",
     "auction_date": null,
-    "date_found": "2026-11-19"
+    "date_found": "2026-11-19",
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1080,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4532 E 16th St, Tucson, AZ 85711",
@@ -2012,6 +2114,11 @@
     "note": "Ask about the accessory building with the extra room and half bath \u2014 lead with using it as an in-law suite/rental, and confirm the 2021 roof.",
     "url": "https://www.redfin.com/AZ/Tucson/4532-E-16th-St-85711/home/50453301",
     "auction_date": null,
-    "date_found": "2026-11-19"
+    "date_found": "2026-11-19",
+    "beds": 3,
+    "baths": 1.5,
+    "sqft": 953,
+    "arv": null,
+    "arv_comps": []
   }
 ]
