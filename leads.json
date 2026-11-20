@@ -13,7 +13,13 @@
    "bank owned",
    "vacant"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 5,
+  "baths": 3,
+  "sqft": 2998,
+  "year_built": 2007,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "12725 W Voltaire Ave, El Mirage, AZ 85335",
@@ -29,7 +35,50 @@
    "bank owned",
    "vacant"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 1,
+  "sqft": 1145,
+  "year_built": 2001,
+  "arv": 318800,
+  "arv_comps": [
+   {
+    "address": "14010 N 4th Ave, El Mirage, AZ 85335",
+    "price": 300000,
+    "date": "2026-05-20",
+    "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/666E6656E82842BF89433EB88AE50FFB.v1.pdf",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1200
+   },
+   {
+    "address": "12235 W Dahlia Dr, El Mirage, AZ 85335",
+    "price": 308000,
+    "date": "2026-11-17",
+    "url": "https://www.homes.com/el-mirage-az/sold/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1090
+   },
+   {
+    "address": "12038 W Aster Dr, El Mirage, AZ 85335",
+    "price": 329500,
+    "date": "2026-06-30",
+    "url": "https://www.homes.com/el-mirage-az/sold/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1306
+   },
+   {
+    "address": "12318 W Dreyfus Dr, El Mirage, AZ 85335",
+    "price": 335000,
+    "date": "2026-08-07",
+    "url": "https://www.xome.com/homes-for-sale/13402-N-FULLER-Drive-El-Mirage-AZ-85335-395438833",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1229
+   }
+  ]
  },
  {
   "address": "2310 W Maldonado Rd, Phoenix, AZ 85041",
@@ -44,7 +93,41 @@
   "signals": [
    "trustee sale"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 3,
+  "sqft": 2055,
+  "year_built": 2002,
+  "arv": 390000,
+  "arv_comps": [
+   {
+    "address": "6630 S 25th Ave, Phoenix, AZ 85041",
+    "price": 388000,
+    "date": "2026-09-23",
+    "url": "https://www.zillow.com/homedetails/6630-S-25th-Ave-Phoenix-AZ-85041/60976892_zpid/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1737
+   },
+   {
+    "address": "2629 W Maldonado Rd, Phoenix, AZ 85041",
+    "price": 390000,
+    "date": "2026-06-25",
+    "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/58E0905813B14F80A8E3F6D371B8959B.v1.pdf",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1685
+   },
+   {
+    "address": "2340 W Apollo Rd, Phoenix, AZ 85041",
+    "price": 400000,
+    "date": "2026-07-21",
+    "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/58E0905813B14F80A8E3F6D371B8959B.v1.pdf",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1737
+   }
+  ]
  },
  {
   "address": "14209 N Alto St, El Mirage, AZ 85335",
@@ -59,7 +142,59 @@
   "signals": [
    "trustee sale"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1311,
+  "year_built": 2009,
+  "arv": 329500,
+  "arv_comps": [
+   {
+    "address": "14010 N 4th Ave, El Mirage, AZ 85335",
+    "price": 300000,
+    "date": "2026-05-20",
+    "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/666E6656E82842BF89433EB88AE50FFB.v1.pdf",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1200
+   },
+   {
+    "address": "12235 W Dahlia Dr, El Mirage, AZ 85335",
+    "price": 308000,
+    "date": "2026-11-17",
+    "url": "https://www.homes.com/el-mirage-az/sold/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1090
+   },
+   {
+    "address": "12038 W Aster Dr, El Mirage, AZ 85335",
+    "price": 329500,
+    "date": "2026-06-30",
+    "url": "https://www.homes.com/el-mirage-az/sold/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1306
+   },
+   {
+    "address": "12318 W Dreyfus Dr, El Mirage, AZ 85335",
+    "price": 335000,
+    "date": "2026-08-07",
+    "url": "https://www.xome.com/homes-for-sale/13402-N-FULLER-Drive-El-Mirage-AZ-85335-395438833",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1229
+   },
+   {
+    "address": "13374 N Primrose St, El Mirage, AZ 85335",
+    "price": 352500,
+    "date": "2026-10-15",
+    "url": "https://www.zillow.com/homedetails/13374-N-Primrose-St-El-Mirage-AZ-85335/60962694_zpid/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1515
+   }
+  ]
  },
  {
   "address": "4228 S 82nd Ln, Phoenix, AZ 85043",
@@ -74,7 +209,41 @@
   "signals": [
    "trustee sale"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1551,
+  "year_built": 2017,
+  "arv": 399900,
+  "arv_comps": [
+   {
+    "address": "8825 W Albeniz Place, Tolleson, AZ 85353",
+    "price": 378000,
+    "date": "2026-08-14",
+    "url": "https://www.homes.com/phoenix-az/riverside-elementary-school/s-m8p5g8dynxf24/sold/p7/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1529
+   },
+   {
+    "address": "8224 W Pueblo Ave, Phoenix, AZ 85043",
+    "price": 399900,
+    "date": "2026-05-20",
+    "url": "https://www.compass.com/homedetails/8224-W-Pueblo-Ave-Phoenix-AZ-85043/ZW7JM_pid/",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1551
+   },
+   {
+    "address": "8415 W Albeniz Place, Tolleson, AZ 85353",
+    "price": 408000,
+    "date": "2026-08-21",
+    "url": "https://search.blissrealtyinvestment.com/idx/details/listing/b012/7038047",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1849
+   }
+  ]
  },
  {
   "address": "15476 W Yucatan Dr, Surprise, AZ 85379",
@@ -89,7 +258,13 @@
   "signals": [
    "trustee sale"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 5,
+  "baths": 3,
+  "sqft": 2536,
+  "year_built": 2005,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "6829 W St Charles Ave, Laveen, AZ 85339",
@@ -105,7 +280,41 @@
    "trustee sale",
    "vacant"
   ],
-  "stack_tier": "Tier B"
+  "stack_tier": "Tier B",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 2058,
+  "year_built": 2004,
+  "arv": 438000,
+  "arv_comps": [
+   {
+    "address": "6821 S 68th Ln, Laveen, AZ 85339",
+    "price": 392500,
+    "date": "2026-05-22",
+    "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/EF45059A62F44458BCE0F1C0F8D8C8E5.v1.pdf",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2149
+   },
+   {
+    "address": "6312 S 68th Ave, Laveen, AZ 85339",
+    "price": 438000,
+    "date": "2026-07-23",
+    "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/EF45059A62F44458BCE0F1C0F8D8C8E5.v1.pdf",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2092
+   },
+   {
+    "address": "7119 S 68th Dr, Laveen, AZ 85339",
+    "price": 475000,
+    "date": "2026-10-16",
+    "url": "http://www.arnoldhickey.com/property/22-7057673-7119-s-68th-drive-laveen-AZ-85339",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2297
+   }
+  ]
  },
  {
   "address": "17076 W Diana Ave, Waddell, AZ 85355",
@@ -120,7 +329,13 @@
   "signals": [
    "trustee sale"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1579,
+  "year_built": 2022,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "9006 S 340th Dr, Arlington, AZ 85322",
@@ -135,7 +350,13 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2094,
+  "year_built": 2019,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "45338 W Madison Ave, Maricopa, AZ 85139",
@@ -150,7 +371,13 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1178,
+  "year_built": 2000,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "3145 W Romana Dr, Eloy, AZ 85131",
@@ -165,7 +392,13 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1715,
+  "year_built": 1998,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "49084 W Huisatch Rd, Maricopa, AZ 85139",
@@ -180,7 +413,13 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1456,
+  "year_built": 1999,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "54194 W Organ Pipe Rd, Maricopa, AZ 85139",
