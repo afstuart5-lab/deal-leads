@@ -951,7 +951,10 @@
     "note": "They published their own ARV and repair numbers \u2014 open with: 'Your numbers look workable. If I can hit your price, can we close before the holidays?'",
     "url": "https://www.craigslist.org/view/d/tucson-good-potential-returns-buy-rehab/oStaNxReoLLaU7b28EDsru",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "year_built": 1959,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "8221 S Taylor Ln, Tucson, AZ 85736",
@@ -961,7 +964,9 @@
     "note": "Cheapest lead out there \u2014 ask about owner financing first (the ad hints at it), then verify HOA and title.",
     "url": "https://www.craigslist.org/view/d/tucson-mobile-home-on-138-acres/r4nwoiLfuFD2Yg6jd31iRV",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "9170 S Antique Way, Tucson, AZ 85736",
@@ -971,7 +976,13 @@
     "note": "They want speed: 'I can do your 10-day close \u2014 what do the financing terms look like?' Verify HOA on the same call.",
     "url": "https://www.craigslist.org/view/d/tucson-for-sale-finance-available-104/7XogFjMGEBwjrhFmLjpMoq",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1248,
+    "year_built": 1985,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "235 E Delta Rd, Tucson, AZ 85736",
@@ -981,7 +992,9 @@
     "note": "Messy but interesting \u2014 ask where the lot split stands and what's actually permitted before talking price. The 1,800 sq ft shop is the value.",
     "url": "https://www.craigslist.org/view/d/tucson-huge-lot-with-mobile-home-and/3umxEWWVTBQ36qMy4LStUD",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4061 E Paseo Dorado, Tucson, AZ 85711",
@@ -998,7 +1011,9 @@
       "tax delinquent"
     ],
     "stack_tier": "Tier B",
-    "owner_name": "Estate of Lopez"
+    "owner_name": "Estate of Lopez",
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "5117 E Ferry Dr, Tucson, AZ 85711",
@@ -1015,7 +1030,11 @@
       "tax delinquent"
     ],
     "stack_tier": "Tier B",
-    "owner_name": "Estate of Rios / Gradillas"
+    "owner_name": "Estate of Rios / Gradillas",
+    "baths": 1,
+    "year_built": 1964,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4746 E Hampton St, Tucson, AZ 85712",
@@ -1032,7 +1051,9 @@
       "tax delinquent"
     ],
     "stack_tier": "Tier B",
-    "owner_name": "Estate of Recklein"
+    "owner_name": "Estate of Recklein",
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "2745 W Bluefield Ave, Phoenix, AZ 85053",
@@ -1042,7 +1063,13 @@
     "note": "Remodeled with new roof and AC \u2014 it's retail-ready, so don't pitch a discount. Sell certainty: 'Cash, no inspection games, close in 14 days \u2014 what number makes it easy?'",
     "url": "https://www.forsalebyowner.com/listing/2745-West-Bluefield-Avenue-Phoenix-AZ-85053/6aa1dc8779240681240d4cda",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1645,
+    "year_built": 1983,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "15207 N 28th Pl, Phoenix, AZ 85032",
@@ -1052,7 +1079,13 @@
     "note": "First confirm it's truly 2 baths \u2014 a duplicate listing for this address shows 1.5. Then: 'Cash, quick close \u2014 and I like the office setup.'",
     "url": "https://www.forsalebyowner.com/listing/15207-N-28th-place-Phoenix-AZ-85032/649cc620ab5b5dfd6108e2e5",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1558,
+    "year_built": 2000,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4833 E 23rd St, Tucson, AZ 85711",
@@ -1062,7 +1095,13 @@
     "note": "It's gutted \u2014 that's your leverage: 'Most buyers can't touch a gutted house. I can \u2014 cash, as-is.' Confirm the real bed/bath layout on the call; the listing contradicts itself.",
     "url": "https://www.redfin.com/AZ/Tucson/4833-E-23rd-St-85711/home/50466898",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1081,
+    "year_built": 1959,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "5056 E 4th St, Tucson, AZ 85711",
@@ -1072,7 +1111,13 @@
     "note": "Lead with as-is: 'No repairs, no clean-up, cash close.' It's been listed since September \u2014 ask what's making it hard to sell and solve that.",
     "url": "https://www.redfin.com/AZ/Tucson/5056-E-4th-St-85711/home/50456158",
     "auction_date": null,
-    "date_found": "2026-11-18"
+    "date_found": "2026-11-18",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1282,
+    "year_built": 1951,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "7017 E Luana Dr, Tucson, AZ 85710",
@@ -1085,7 +1130,13 @@
     "date_found": "2026-11-18",
     "signals": [
       "price cut"
-    ]
+    ],
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1691,
+    "year_built": 1959,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4300 E Glenn St, Tucson, AZ 85712",
