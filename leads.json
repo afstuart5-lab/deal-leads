@@ -1885,7 +1885,40 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://treasurer.maricopa.gov/PropertyTaxInformation/?parcel=10948060",
-    "zestimate": 199900
+    "zestimate": 199900,
+    "baths": 1,
+    "sqft": 1016,
+    "year_built": 1933,
+    "arv": 335000,
+    "arv_comps": [
+      {
+        "address": "2212 W Madison St, Phoenix, AZ 85009",
+        "price": 335000,
+        "date": "2026-06-25",
+        "url": "https://www.zillow.com/homedetails/2212-W-Madison-St-Phoenix-AZ-85009/7515304_zpid/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1000
+      },
+      {
+        "address": "317 N 20th Ave, Phoenix, AZ 85009",
+        "price": 346000,
+        "date": "2026-08-10",
+        "url": "https://www.zillow.com/homedetails/317-N-20th-Ave-Phoenix-AZ-85009/7514313_zpid/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1048
+      },
+      {
+        "address": "429 N 20th Ave, Phoenix, AZ 85009",
+        "price": 250000,
+        "date": "2026-07-22",
+        "url": "https://www.zillow.com/homedetails/429-N-20th-Ave-Phoenix-AZ-85009/63200557_zpid/",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 873
+      }
+    ]
   },
   {
     "address": "13374 W Desert Rock Dr, Surprise, AZ 85374",
@@ -1955,7 +1988,13 @@
     "source": "Auction.com",
     "stack_tier": "Tier C",
     "url": "https://www.auction.com/details/2228-w-pecan-rd-phoenix-az-2188723",
-    "zestimate": 333800
+    "zestimate": 333800,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1131,
+    "year_built": 1971,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4252 E Sylvane Dr, Tucson, AZ 85711",
@@ -1965,7 +2004,13 @@
     "note": "Opendoor relist \u2014 ask about the $3,000 mortgage concession and whether they'll flex on price; offer a fast close.",
     "source": "Zillow",
     "url": "https://www.zillow.com/homedetails/4252-E-Sylvane-Dr-Tucson-AZ-85711/8517919_zpid/",
-    "zestimate": null
+    "zestimate": null,
+    "beds": 3,
+    "baths": 1,
+    "sqft": 1012,
+    "year_built": 1959,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "1005 N Trekell Rd, Casa Grande, AZ 85122",
@@ -1979,6 +2024,40 @@
     "segment": "Pre-foreclosure",
     "signals": [
       "bank owned"
+    ],
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1607,
+    "year_built": 1954,
+    "arv": 260000,
+    "arv_comps": [
+      {
+        "address": "1116 E 11th St, Casa Grande, AZ 85122",
+        "price": 265000,
+        "date": "2026-05-29",
+        "url": "https://www.homes.com/property/1116-e-11th-st-casa-grande-az/xhlm7kbc8vblm/",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1669
+      },
+      {
+        "address": "914 N Cameron Ave, Casa Grande, AZ 85122",
+        "price": 260000,
+        "date": "2026-09-08",
+        "url": "https://www.homes.com/property/914-n-cameron-ave-casa-grande-az/fzmt2tjlb4gcb/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1400
+      },
+      {
+        "address": "1226 E 11th Pl, Casa Grande, AZ 85122",
+        "price": 243175,
+        "date": "2026-07-20",
+        "url": "https://kw.com/property/1226-E-11TH-Place-Casa-Grande-AZ-85122/2112375945581706",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1363
+      }
     ]
   },
   {
@@ -1996,7 +2075,13 @@
       "tax delinquent"
     ],
     "stack_tier": "Tier B",
-    "owner_name": "CAMPION MAURICE M ESTATE OF/ROSE P"
+    "owner_name": "CAMPION MAURICE M ESTATE OF/ROSE P",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1312,
+    "year_built": 2006,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "40029 N Patriot Way, Phoenix, AZ 85086",
@@ -2013,7 +2098,11 @@
       "tax delinquent"
     ],
     "stack_tier": "Tier B",
-    "owner_name": "ZIBROWSKI DWAYNE ESTATE OF"
+    "owner_name": "ZIBROWSKI DWAYNE ESTATE OF",
+    "baths": 2.5,
+    "year_built": 2000,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "2440 W Spencer Run, Phoenix, AZ 85041",
@@ -2030,7 +2119,13 @@
       "tax delinquent"
     ],
     "stack_tier": "Tier B",
-    "owner_name": "SOLAREZ JOSE G JR ESTATE OF"
+    "owner_name": "SOLAREZ JOSE G JR ESTATE OF",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2482,
+    "year_built": 2005,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "4417 W Rovey Ave, Glendale, AZ 85301",
@@ -2045,7 +2140,41 @@
     "signals": [
       "probate sale"
     ],
-    "stack_tier": "Tier C"
+    "stack_tier": "Tier C",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1550,
+    "year_built": 1962,
+    "arv": 360000,
+    "arv_comps": [
+      {
+        "address": "4522 W Rovey Ave, Glendale, AZ 85301",
+        "price": 370000,
+        "date": "2026-08-12",
+        "url": "https://www.homes.com/property/4522-w-rovey-ave-glendale-az/4lk9be46dqe84/",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1596
+      },
+      {
+        "address": "4419 W Keim Dr, Glendale, AZ 85301",
+        "price": 360000,
+        "date": "2026-07-06",
+        "url": "https://www.compass.com/homedetails/4419-W-Keim-Dr-Glendale-AZ-85301/10NZ0Y_pid/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1737
+      },
+      {
+        "address": "4943 W Citrus Way, Glendale, AZ 85301",
+        "price": 285000,
+        "date": "2026-08-21",
+        "url": "https://www.compass.com/homedetails/4943-W-Citrus-Way-Glendale-AZ-85301/WNDIJ_pid/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1421
+      }
+    ]
   },
   {
     "address": "26263 N 133rd Ave, Peoria, AZ 85383",
@@ -2055,7 +2184,13 @@
     "note": "Call today while it's fresh \u2014 listed 4 hours ago as FSBO; ask what they'd take for a quick cash close under their $450K ask.",
     "url": "https://www.zillow.com/homedetails/26263-N-133rd-Ave-Peoria-AZ-85383/95127163_zpid/",
     "auction_date": null,
-    "date_found": "2026-11-19"
+    "date_found": "2026-11-19",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1567,
+    "year_built": 2020,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "3024 S 101st Ave, Tolleson, AZ 85353",
@@ -2065,7 +2200,13 @@
     "note": "Lead with their financing \u2014 10\u201315% down, no credit or income check \u2014 and ask what they'd take for a fast close on the vacant house.",
     "url": "https://www.craigslist.org/view/d/mesa-tolleson-az-bed-bath-250k-down/ogoNGnUxVszq5ju9Pc1fEZ",
     "auction_date": null,
-    "date_found": "2026-11-19"
+    "date_found": "2026-11-19",
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 1474,
+    "year_built": 2005,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "3089 N Desert Horizons Ln, Casa Grande, AZ 85122",
@@ -2079,7 +2220,13 @@
     "segment": "Pre-foreclosure",
     "signals": [
       "trustee sale"
-    ]
+    ],
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1412,
+    "year_built": 2007,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "22170 W Hadley St, Buckeye, AZ 85326",
@@ -2089,7 +2236,13 @@
     "note": "Lead as a fast cash / quick-close buyer at or below $305,000 with $5,000 EMD and proof of funds; the home is vacant, so ask for immediate showing access and confirm HOA.",
     "url": "https://www.craigslist.org/view/d/palo-verde-buckeye-az-bed-bath-305k-down/fpM2PUWNqJcnofFDXz7VDZ",
     "auction_date": null,
-    "date_found": "2026-11-19"
+    "date_found": "2026-11-19",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1929,
+    "year_built": 2006,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "5712 E Cooper St, Tucson, AZ 85711",
