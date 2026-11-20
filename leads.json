@@ -1397,7 +1397,13 @@
     "date_found": "2026-11-18",
     "signals": [
       "bank owned"
-    ]
+    ],
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2486,
+    "year_built": 2006,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "17909 W Agave Rd, Goodyear, AZ 85338",
@@ -1410,7 +1416,13 @@
     "date_found": "2026-11-18",
     "signals": [
       "bank owned"
-    ]
+    ],
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2421,
+    "year_built": 2008,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "19641 N 26th St, Phoenix, AZ 85050",
@@ -1423,7 +1435,13 @@
     "date_found": "2026-11-18",
     "signals": [
       "bank owned"
-    ]
+    ],
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1364,
+    "year_built": 1976,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "14350 W Jalisco Rd, Arivaca, AZ 85601",
@@ -1440,7 +1458,9 @@
     ],
     "source": "Auction.com",
     "url": "https://www.auction.com/details/14350-w-jalisco-rd-arivaca-az-2242483",
-    "zestimate": 261400
+    "zestimate": 261400,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "2535 E Illini St, Phoenix, AZ 85040",
@@ -1457,7 +1477,11 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/2535-E-Illini-St-Phoenix-AZ-85040/7546095_zpid/",
-    "zestimate": 188400
+    "zestimate": 188400,
+    "sqft": 1147,
+    "year_built": 1950,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "10923 W 4th St, Avondale, AZ 85323",
@@ -1474,7 +1498,11 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/10923-W-4th-St-Avondale-AZ-85323/7460338_zpid/",
-    "zestimate": 205200
+    "zestimate": 205200,
+    "sqft": 1435,
+    "year_built": 1936,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "5221 S 6th Ave, Tucson, AZ 85706",
@@ -1491,7 +1519,9 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/5221-S-6th-Ave-Tucson-AZ-85706/8560285_zpid/",
-    "zestimate": 228200
+    "zestimate": 228200,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "2844 W Granada Rd, Phoenix, AZ 85009",
@@ -1508,7 +1538,11 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/2844-W-Granada-Rd-Phoenix-AZ-85009/7512359_zpid/",
-    "zestimate": 236700
+    "zestimate": 236700,
+    "sqft": 1008,
+    "year_built": 1971,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "2013 E Nancy Ln, Phoenix, AZ 85042",
@@ -1525,7 +1559,13 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/2013-E-Nancy-Ln-Phoenix-AZ-85042/7548765_zpid/",
-    "zestimate": 245600
+    "zestimate": 245600,
+    "beds": 4,
+    "baths": 1,
+    "sqft": 1071,
+    "year_built": 1960,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "6626 W Monte Vista Rd, Phoenix, AZ 85035",
@@ -1542,7 +1582,11 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/6626-W-Monte-Vista-Rd-Phoenix-AZ-85035/7490310_zpid/",
-    "zestimate": 281400
+    "zestimate": 281400,
+    "sqft": 1092,
+    "year_built": 1971,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "3354 W Culver St, Phoenix, AZ 85009",
@@ -1559,7 +1603,13 @@
     "source": "County List",
     "stack_tier": "Tier B",
     "url": "https://www.zillow.com/homedetails/3354-W-Culver-St-Phoenix-AZ-85009/50186017_zpid/",
-    "zestimate": 300200
+    "zestimate": 300200,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1280,
+    "year_built": 1999,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "13547 W Peck Dr, Litchfield Park, AZ 85340",
@@ -1572,7 +1622,13 @@
     ],
     "source": "FSBO.com",
     "url": "https://fsbo.com/search/13547-w-peck-dr-litchfield-park-az-85340-1788040810501",
-    "zestimate": null
+    "zestimate": null,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1864,
+    "year_built": 2002,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "24269 W Watkins St, Buckeye, AZ 85326",
