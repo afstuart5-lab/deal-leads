@@ -1402,8 +1402,36 @@
     "baths": 2.5,
     "sqft": 2486,
     "year_built": 2006,
-    "arv": null,
-    "arv_comps": []
+    "arv": 497000,
+    "arv_comps": [
+      {
+        "address": "21125 E Twin Acres Dr, Queen Creek, AZ 85142",
+        "price": 715000,
+        "date": "2026-06-25",
+        "url": "https://www.zillow.com/homedetails/21125-E-Twin-Acres-Dr-Queen-Creek-AZ-85142/55277782_zpid/",
+        "beds": 5,
+        "baths": 3,
+        "sqft": 2706
+      },
+      {
+        "address": "21061 E Via Del Sol, Queen Creek, AZ 85142",
+        "price": 497000,
+        "date": "2026-08-24",
+        "url": "https://www.zillow.com/homedetails/21061-E-Via-Del-Sol-Queen-Creek-AZ-85142/95149941_zpid/",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 2222
+      },
+      {
+        "address": "21218 E Pecan Ln, Queen Creek, AZ 85142",
+        "price": 422000,
+        "date": "2026-06-25",
+        "url": "https://www.compass.com/homedetails/21218-E-Pecan-Ln-Queen-Creek-AZ-85142/ZUXDA_pid/",
+        "beds": 4,
+        "baths": 2.5,
+        "sqft": 2105
+      }
+    ]
   },
   {
     "address": "17909 W Agave Rd, Goodyear, AZ 85338",
@@ -1460,7 +1488,11 @@
     "url": "https://www.auction.com/details/14350-w-jalisco-rd-arivaca-az-2242483",
     "zestimate": 261400,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1960,
+    "year_built": 1998
   },
   {
     "address": "2535 E Illini St, Phoenix, AZ 85040",
@@ -1481,7 +1513,8 @@
     "sqft": 1147,
     "year_built": 1950,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "baths": 1
   },
   {
     "address": "10923 W 4th St, Avondale, AZ 85323",
@@ -1521,7 +1554,10 @@
     "url": "https://www.zillow.com/homedetails/5221-S-6th-Ave-Tucson-AZ-85706/8560285_zpid/",
     "zestimate": 228200,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "baths": 2,
+    "sqft": 1461,
+    "year_built": 1956
   },
   {
     "address": "2844 W Granada Rd, Phoenix, AZ 85009",
@@ -1542,7 +1578,8 @@
     "sqft": 1008,
     "year_built": 1971,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "baths": 1
   },
   {
     "address": "2013 E Nancy Ln, Phoenix, AZ 85042",
@@ -1564,8 +1601,36 @@
     "baths": 1,
     "sqft": 1071,
     "year_built": 1960,
-    "arv": null,
-    "arv_comps": []
+    "arv": 338000,
+    "arv_comps": [
+      {
+        "address": "2242 E Nancy Ln, Phoenix, AZ 85042",
+        "price": 338000,
+        "date": "2026-06-05",
+        "url": "https://boulderhomeinvestments.com/pdfs/6030-s-20th-st-comps.pdf",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1219
+      },
+      {
+        "address": "6030 S 19th Pl, Phoenix, AZ 85042",
+        "price": 321600,
+        "date": "2026-08-31",
+        "url": "https://boulderhomeinvestments.com/pdfs/6030-s-20th-st-comps.pdf",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1219
+      },
+      {
+        "address": "6826 S 17th Way, Phoenix, AZ 85042",
+        "price": 350000,
+        "date": "2026-08-31",
+        "url": "https://www.compass.com/homedetails/6826-S-17th-Way-Phoenix-AZ-85042/WV4NX_pid/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1203
+      }
+    ]
   },
   {
     "address": "6626 W Monte Vista Rd, Phoenix, AZ 85035",
@@ -1586,7 +1651,8 @@
     "sqft": 1092,
     "year_built": 1971,
     "arv": null,
-    "arv_comps": []
+    "arv_comps": [],
+    "baths": 2
   },
   {
     "address": "3354 W Culver St, Phoenix, AZ 85009",
@@ -1627,8 +1693,36 @@
     "baths": 2,
     "sqft": 1864,
     "year_built": 2002,
-    "arv": null,
-    "arv_comps": []
+    "arv": 361000,
+    "arv_comps": [
+      {
+        "address": "13531 W Solano Dr, Litchfield Park, AZ 85340",
+        "price": 361000,
+        "date": "2026-08-19",
+        "url": "https://www.redfin.com/AZ/Litchfield-Park/13531-W-Solano-Dr-85340/home/27911656",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1517
+      },
+      {
+        "address": "5828 N Milano Dr, Litchfield Park, AZ 85340",
+        "price": 360000,
+        "date": "2026-05-29",
+        "url": "https://www.zillow.com/homedetails/5828-N-Milano-Dr-Litchfield-Park-AZ-85340/55285012_zpid/",
+        "beds": 4,
+        "baths": 2,
+        "sqft": 1863
+      },
+      {
+        "address": "13631 W Rovey Ave, Litchfield Park, AZ 85340",
+        "price": 382000,
+        "date": "2026-06-11",
+        "url": "https://www.movoto.com/litchfield-park-az/13631-w-rovey-ave-litchfield-park-az-85340-471_5094612/",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1978
+      }
+    ]
   },
   {
     "address": "24269 W Watkins St, Buckeye, AZ 85326",
