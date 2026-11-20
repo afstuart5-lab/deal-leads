@@ -767,7 +767,9 @@
     "beds": 4,
     "baths": 3,
     "sqft": 1495,
-    "year_built": 2001
+    "year_built": 2001,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "901 S Smith Rd, Tempe, AZ 85281",
@@ -782,9 +784,39 @@
       "long DOM"
     ],
     "beds": 3,
-    "baths": 3,
-    "sqft": 1833,
-    "year_built": 2021
+    "baths": 2.5,
+    "sqft": 1781,
+    "year_built": 2020,
+    "arv": 535000,
+    "arv_comps": [
+      {
+        "address": "901 S Smith Rd Unit 1064, Tempe, AZ 85281",
+        "price": 530000,
+        "date": "2026-08-24",
+        "url": "https://www.zillow.com/homedetails/901-S-Smith-Rd-1064-Tempe-AZ-85281/352631985_zpid/",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1833
+      },
+      {
+        "address": "901 S Smith Rd Unit 1045, Tempe, AZ 85281",
+        "price": 535000,
+        "date": "2026-05-29",
+        "url": "https://www.compass.com/homedetails/901-S-Smith-Rd-Unit-1045-Tempe-AZ-85281/LYWHJ_pid/",
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1805
+      },
+      {
+        "address": "901 S Smith Rd Unit 1038, Tempe, AZ 85281",
+        "price": 539000,
+        "date": "2026-07-20",
+        "url": "https://blairballin.com/home/901-s-smith-rd-1038-tempe-az-85281-417539c3",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 1839
+      }
+    ]
   },
   {
     "address": "5433 E Waverly St, Tucson, AZ 85712",
@@ -801,7 +833,37 @@
     "beds": 2,
     "baths": 1,
     "sqft": 954,
-    "year_built": 1951
+    "year_built": 1951,
+    "arv": 250000,
+    "arv_comps": [
+      {
+        "address": "5818 E Camden St, Tucson, AZ 85712",
+        "price": 240000,
+        "date": "2026-10-09",
+        "url": "https://www.zillow.com/homedetails/5818-E-Camden-St-Tucson-AZ-85712/8493451_zpid/",
+        "beds": 1,
+        "baths": 1,
+        "sqft": 862
+      },
+      {
+        "address": "4738 E Bellevue St, Tucson, AZ 85712",
+        "price": 250000,
+        "date": "2026-09-29",
+        "url": "https://www.zillow.com/homedetails/4738-E-Bellevue-St-Tucson-AZ-85712/8494690_zpid/",
+        "beds": 2,
+        "baths": 1,
+        "sqft": 990
+      },
+      {
+        "address": "5511 E Helen St, Tucson, AZ 85712",
+        "price": 257000,
+        "date": "2026-06-09",
+        "url": "https://WWW.REALTY.COM/homedetails/5511-e-helen-street-tucson-az-85712",
+        "beds": 3,
+        "baths": 1,
+        "sqft": 932
+      }
+    ]
   },
   {
     "address": "429 E Echo Ln, Florence, AZ 85132",
@@ -820,7 +882,9 @@
     "beds": 3,
     "baths": 2,
     "sqft": 1510,
-    "year_built": 1993
+    "year_built": 1993,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "7119 S 389th Ave, Tonopah, AZ 85354",
@@ -839,7 +903,9 @@
     "beds": 4,
     "baths": 2,
     "sqft": 2052,
-    "year_built": 2019
+    "year_built": 2019,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "13615 N 110th Ave, Sun City, AZ 85351",
@@ -858,7 +924,9 @@
     "beds": 2,
     "baths": 2,
     "sqft": 1210,
-    "year_built": 1972
+    "year_built": 1972,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "3919 E Surrey Ave, Phoenix, AZ 85032",
@@ -872,7 +940,37 @@
     "beds": 3,
     "baths": 2,
     "sqft": 1342,
-    "year_built": 1973
+    "year_built": 1973,
+    "arv": 428000,
+    "arv_comps": [
+      {
+        "address": "13842 N 37th Way, Phoenix, AZ 85032",
+        "price": 424000,
+        "date": "2026-10-27",
+        "url": "https://blairballin.com/home/13842-n-37th-way-phoenix-az-85032-afc2aa23",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1280
+      },
+      {
+        "address": "3620 E Joan De Arc Ave, Phoenix, AZ 85032",
+        "price": 428000,
+        "date": "2026-09-24",
+        "url": "https://www.legacyrealestateteam.com/property-search/detail/107/7072551/3620-e-joan-de-arc-ave-phoenix-az-85032/?src=_removed_",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1330
+      },
+      {
+        "address": "3611 E Delcoa Dr, Phoenix, AZ 85032",
+        "price": 475000,
+        "date": "2026-08-11",
+        "url": "https://azrealestateconsultants.kw.com/property/3611-E-DELCOA-Drive-Phoenix-AZ-85032/2132815698160614",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1532
+      }
+    ]
   },
   {
     "address": "303 E South Mountain Ave Lot 159, Phoenix, AZ 85042",
@@ -885,7 +983,9 @@
     "date_found": "2026-11-18",
     "beds": 4,
     "baths": 2,
-    "sqft": 1527
+    "sqft": 1527,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "6420 W College Dr, Phoenix, AZ 85033",
@@ -941,7 +1041,10 @@
     "auction_date": null,
     "date_found": "2026-11-18",
     "sqft": 1277,
-    "year_built": 1956
+    "year_built": 1956,
+    "baths": 1,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "436 N Bahamas Dr, Tucson, AZ 85710",
@@ -1832,7 +1935,13 @@
     ],
     "source": "FSBO.com",
     "url": "https://fsbo.com/search/24269-w-watkins-st-buckeye-az-85326-1794866436115",
-    "zestimate": 514400
+    "zestimate": 514400,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2041,
+    "year_built": 2024,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "38181 W San Alvarez Ave, Maricopa, AZ 85138",
@@ -1850,7 +1959,13 @@
     "source": "Auction.com",
     "stack_tier": "Tier C",
     "url": "https://www.auction.com/details/38181-w-san-alvarez-ave-maricopa-az-2157548",
-    "zestimate": 298600
+    "zestimate": 298600,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1592,
+    "year_built": 2020,
+    "arv": null,
+    "arv_comps": []
   },
   {
     "address": "6265 E Adobe Rd, Mesa, AZ 85205",
@@ -1868,7 +1983,41 @@
     "source": "Auction.com",
     "stack_tier": "Tier C",
     "url": "https://www.auction.com/details/6265-e-adobe-rd-mesa-az-2252096",
-    "zestimate": 331200
+    "zestimate": 331200,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1832,
+    "year_built": 1971,
+    "arv": 390000,
+    "arv_comps": [
+      {
+        "address": "6647 E Dallas St, Mesa, AZ 85205",
+        "price": 380000,
+        "date": "2026-06-17",
+        "url": "https://www.zillow.com/homedetails/6647-E-Dallas-St-Mesa-AZ-85205/7667379_zpid/",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1546
+      },
+      {
+        "address": "6656 E Decatur St, Mesa, AZ 85205",
+        "price": 390000,
+        "date": "2026-09-11",
+        "url": "https://www.zillow.com/homedetails/6656-E-Decatur-St-Mesa-AZ-85205/7667424_zpid/",
+        "beds": 2,
+        "baths": 2,
+        "sqft": 1739
+      },
+      {
+        "address": "818 N 62nd St, Mesa, AZ 85205",
+        "price": 399900,
+        "date": "2026-05-30",
+        "url": "https://www.zillow.com/homedetails/818-N-62nd-St-Mesa-AZ-85205/7668123_zpid/",
+        "beds": 3,
+        "baths": 2,
+        "sqft": 1553
+      }
+    ]
   },
   {
     "address": "2145 W Madison St, Phoenix, AZ 85009",
