@@ -195,7 +195,13 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 961,
+  "year_built": 1997,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "209 E 3rd Ave, Casa Grande, AZ 85122",
@@ -210,7 +216,13 @@
   "signals": [
    "bank owned"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1296,
+  "year_built": 1954,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "12891 W Wailaki Way, Tucson, AZ 85743",
@@ -225,7 +237,13 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1680,
+  "year_built": 2002,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "6558 E 12th St, Tucson, AZ 85710",
@@ -240,7 +258,13 @@
   "signals": [
    "bank owned"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2036,
+  "year_built": 1952,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "1026 S Brighton Ave, Tucson, AZ 85711",
@@ -256,7 +280,13 @@
    "bank owned",
    "vacant"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1249,
+  "year_built": 1946,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "4227 E Agave Desert Trl, Tucson, AZ 85706",
@@ -271,7 +301,41 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1393,
+  "year_built": 2005,
+  "arv": 284000,
+  "arv_comps": [
+   {
+    "address": "6252 S High Hope Ln, Tucson, AZ 85706",
+    "price": 275000,
+    "date": "2026-09-30",
+    "url": "https://www.zillow.com/homedetails/6252-S-High-Hope-Ln-Tucson-AZ-85706/97381509_zpid/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1308
+   },
+   {
+    "address": "5980 S Antrim Loop, Tucson, AZ 85706",
+    "price": 284000,
+    "date": "2026-10-20",
+    "url": "https://www.zillow.com/homedetails/5980-S-Antrim-Loop-Tucson-AZ-85706/97403310_zpid/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1268
+   },
+   {
+    "address": "6612 S Chinese Lanterns Dr, Tucson, AZ 85756",
+    "price": 318000,
+    "date": "2026-06-26",
+    "url": "https://www.movoto.com/tucson-az/6612-s-chinese-lanterns-dr-tucson-az-85756/pid_j90o7r4d8g/",
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1657
+   }
+  ]
  },
  {
   "address": "8617 E 4th St, Tucson, AZ 85710",
@@ -286,7 +350,13 @@
   "signals": [
    "trustee sale"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1061,
+  "year_built": 1977,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "14130 W Dahlia Dr, Surprise, AZ 85379",
@@ -296,7 +366,50 @@
   "note": "Call and lead with their carry-back: 'I can work with your 10% down carry \u2014 what monthly payment do you need?' 215 days on market: lead with ease, not price pressure.",
   "url": "https://www.zillow.com/homedetails/14130-W-Dahlia-Dr-Surprise-AZ-85379/71609394_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1636,
+  "year_built": 2005,
+  "arv": 470000,
+  "arv_comps": [
+   {
+    "address": "14425 W Dahlia Dr, Surprise, AZ 85379",
+    "price": 430000,
+    "date": "2026-11-12",
+    "url": "https://www.findazvalleyhomes.com/property/7085098/",
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1925
+   },
+   {
+    "address": "14457 W Via Del Oro, Surprise, AZ 85379",
+    "price": 450000,
+    "date": "2026-10-01",
+    "url": "https://www.findazvalleyhomes.com/property/7029741/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1921
+   },
+   {
+    "address": "14373 W Bloomfield Rd, Surprise, AZ 85379",
+    "price": 490000,
+    "date": "2026-05-27",
+    "url": "https://www.findazvalleyhomes.com/property/6999826/",
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1929
+   },
+   {
+    "address": "14441 W Via Del Oro, Surprise, AZ 85379",
+    "price": 522500,
+    "date": "2026-10-26",
+    "url": "https://www.findazvalleyhomes.com/property/6976784/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1921
+   }
+  ]
  },
  {
   "address": "2977 E Michelle Way, Gilbert, AZ 85234",
@@ -309,7 +422,13 @@
   "date_found": "2026-11-18",
   "signals": [
    "price cut"
-  ]
+  ],
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1763,
+  "year_built": 1999,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "235 N Conejo Rd, Maricopa, AZ 85139",
@@ -322,7 +441,13 @@
   "date_found": "2026-11-18",
   "signals": [
    "price cut"
-  ]
+  ],
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1560,
+  "year_built": 1986,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "11439 W Eucalyptus Dr, Arizona City, AZ 85123",
@@ -332,7 +457,13 @@
   "note": "Compliment the remodel, then verify: 'Is it on its own land with an affidavit of affixture?' Then talk cash and a quick close.",
   "url": "https://www.zillow.com/homedetails/11439-W-Eucalyptus-Dr-Arizona-City-AZ-85123/111062010_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1100,
+  "year_built": 1988,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "1607 E La Donna Ln, Tempe, AZ 85283",
@@ -345,7 +476,13 @@
   "date_found": "2026-11-18",
   "signals": [
    "long DOM"
-  ]
+  ],
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1659,
+  "year_built": 1974,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "6748 W Crabapple Dr, Peoria, AZ 85383",
