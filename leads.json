@@ -355,7 +355,13 @@
   "note": "Fresh listing, only 6 days on \u2014 call today before other investors do: 'I pay cash and can close in two weeks if the number works.'",
   "url": "https://www.zillow.com/homedetails/6748-W-Crabapple-Dr-Peoria-AZ-85383/7925434_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1665,
+  "year_built": 1999,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "7011 W Cheryl Dr, Peoria, AZ 85345",
@@ -365,7 +371,13 @@
   "note": "Fresh and fully remodeled \u2014 move fast, but sell certainty, not a discount: 'Cash, no contingencies, your closing date.'",
   "url": "https://www.zillow.com/homedetails/7011-W-Cheryl-Dr-Peoria-AZ-85345/7701711_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1790,
+  "year_built": 1986,
+  "arv": null,
+  "arv_comps": []
  },
  {
   "address": "12310 W Columbine Dr, El Mirage, AZ 85335",
@@ -375,7 +387,11 @@
   "note": "Call early. First clear up the HOA question (the listing contradicts itself), then make the cash-close offer.",
   "url": "https://www.zillow.com/homedetails/12310-W-Columbine-Dr-El-Mirage-AZ-85335/52524873_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 4,
+  "baths": 3,
+  "sqft": 1495,
+  "year_built": 2001
  },
  {
   "address": "901 S Smith Rd, Tempe, AZ 85281",
@@ -388,7 +404,11 @@
   "date_found": "2026-11-18",
   "signals": [
    "long DOM"
-  ]
+  ],
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1833,
+  "year_built": 2021
  },
  {
   "address": "5433 E Waverly St, Tucson, AZ 85712",
@@ -401,7 +421,11 @@
   "date_found": "2026-11-18",
   "signals": [
    "long DOM"
-  ]
+  ],
+  "beds": 2,
+  "baths": 1,
+  "sqft": 954,
+  "year_built": 1951
  },
  {
   "address": "429 E Echo Ln, Florence, AZ 85132",
@@ -416,7 +440,11 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1510,
+  "year_built": 1993
  },
  {
   "address": "7119 S 389th Ave, Tonopah, AZ 85354",
@@ -431,7 +459,11 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2052,
+  "year_built": 2019
  },
  {
   "address": "13615 N 110th Ave, Sun City, AZ 85351",
@@ -446,7 +478,11 @@
   "signals": [
    "auction"
   ],
-  "stack_tier": "Tier C"
+  "stack_tier": "Tier C",
+  "beds": 2,
+  "baths": 2,
+  "sqft": 1210,
+  "year_built": 1972
  },
  {
   "address": "3919 E Surrey Ave, Phoenix, AZ 85032",
@@ -456,7 +492,11 @@
   "note": "Go to the open house Nov 19, 3-5 PM \u2014 meet the seller face to face and make the cash offer in person. That beats any phone call.",
   "url": "https://www.zillow.com/homedetails/3919-E-Surrey-Ave-Phoenix-AZ-85032/7814211_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1342,
+  "year_built": 1973
  },
  {
   "address": "303 E South Mountain Ave Lot 159, Phoenix, AZ 85042",
@@ -466,7 +506,10 @@
   "note": "Approach carefully: leased land, park approval required. Ask what the lot rent is and whether the park allows investors before any number talk.",
   "url": "https://www.zillow.com/homedetails/303-E-South-Mountain-Ave-LOT-159-Phoenix-AZ-85042/2060886087_zpid/",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 1527
  },
  {
   "address": "6420 W College Dr, Phoenix, AZ 85033",
@@ -476,7 +519,41 @@
   "note": "Lead with their financing \u2014 the full terms are public: 30-year carry, $30K down, 8.59%, no prepayment penalty. Say: 'Your terms work for me \u2014 let's talk price.' Verify the year built (1972 per their FSBO.com listing).",
   "url": "https://www.craigslist.org/view/d/phoenix-seller-financing-available/qKEkeGzguL1chMyV3VBhAh",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "beds": 4,
+  "baths": 2,
+  "sqft": 2074,
+  "year_built": 1972,
+  "arv": 375000,
+  "arv_comps": [
+   {
+    "address": "6521 W Turney Ave, Phoenix, AZ 85033",
+    "price": 386500,
+    "date": "2026-09-28",
+    "url": "https://www.zillow.com/homedetails/6521-W-Turney-Ave-Phoenix-AZ-85033/7717185_zpid/",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1976
+   },
+   {
+    "address": "6719 W Denton Ln, Glendale, AZ 85303",
+    "price": 368500,
+    "date": "2026-10-07",
+    "url": "https://www.zillow.com/homedetails/6719-W-Denton-Ln-Glendale-AZ-85303/7709294_zpid/",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1852
+   },
+   {
+    "address": "5209 N 61st Dr, Glendale, AZ 85301",
+    "price": 375000,
+    "date": "2026-06-30",
+    "url": "https://homefinder.com/realestateandhomes-detail/5209-N-61st-Dr_Glendale_AZ_85301_M12424-42782",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1913
+   }
+  ]
  },
  {
   "address": "4013 N 47th Ln, Phoenix, AZ 85031",
@@ -486,7 +563,9 @@
   "note": "Rehab plus seller financing is your lane: 'I'll take it as-is and your financing works \u2014 what down payment gets it done?'",
   "url": "https://www.craigslist.org/view/d/phoenix-for-sale-finance-available/atNtVfz5Ediwj9SYBFS9GY",
   "auction_date": null,
-  "date_found": "2026-11-18"
+  "date_found": "2026-11-18",
+  "sqft": 1277,
+  "year_built": 1956
  },
  {
   "address": "436 N Bahamas Dr, Tucson, AZ 85710",
